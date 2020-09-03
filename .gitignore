@@ -1,0 +1,15 @@
+
+/*
+
+# Whitelist some files
+!.gitignore
+!.gitattributes
+!.htaccess
+!config.rb
+!favicon.ico
+!composer.json
+!i.php
+!/*.bat
+!README.md
+!robots.txt
+!/index.html
